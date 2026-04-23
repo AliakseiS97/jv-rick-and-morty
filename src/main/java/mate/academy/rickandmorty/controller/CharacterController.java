@@ -1,7 +1,7 @@
 package mate.academy.rickandmorty.controller;
 
-import java.util.List;
 import io.swagger.v3.oas.annotations.Operation;
+import java.util.List;
 import lombok.RequiredArgsConstructor;
 import mate.academy.rickandmorty.dto.CharacterResponseDto;
 import mate.academy.rickandmorty.service.CharacterService;
